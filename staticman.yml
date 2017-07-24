@@ -1,0 +1,8 @@
+allowedFields: ['name', 'email', 'message']
+branch: master
+commitMessage: "There's been a new message left!"
+filename: "entry{@timestamp}"
+format: yml
+moderation: false
+path: "_data/comments"
+requiredFields: ['name', 'email', 'message']
