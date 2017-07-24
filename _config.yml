@@ -5,7 +5,7 @@ description: A site for my friends wedding.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kittysquee.github.io/wedding-site/
 twitter_username: ""
-github_username:  my-github-name
+github_username: kittysquee
 
 # Build settings
 markdown: kramdown
