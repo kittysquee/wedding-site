@@ -1,3 +1,5 @@
+{% assign comments = site.data.comments | sort %}
+
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
     <div>

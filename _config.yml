@@ -3,7 +3,7 @@ title: My Friend\'s Wedding Site
 email: your-email@example.com
 description: A site for my friend\'s wedding.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://kittysquee.github.io/wedding-site/
+url: https:/kittysquee.github.io/wedding-site/
 twitter_username: ""
 github_username:  my-github-name
 
