@@ -1,13 +1,14 @@
 # site settings
-title: My Friend\'s Wedding Site
+title: My Friends Wedding Site
 email: your-email@example.com
-description: A site for my friend\'s wedding.
+description: A site for my friends wedding.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https:/kittysquee.github.io/wedding-site/
+url: https://kittysquee.github.io/wedding-site/
 twitter_username: ""
 github_username:  my-github-name
 
 # Build settings
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
